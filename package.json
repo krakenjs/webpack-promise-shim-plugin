@@ -1,0 +1,25 @@
+{
+  "name": "webpack-promise-shim-plugin",
+  "version": "1.0.0",
+  "description": "Plugin to shim in Promise polyfill into webpack core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krakenjs/webpack-promise-shim-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "promise",
+    "polyfill",
+    "shim"
+  ],
+  "author": "Daniel Brain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krakenjs/webpack-promise-shim-plugin/issues"
+  },
+  "homepage": "https://github.com/krakenjs/webpack-promise-shim-plugin#readme"
+}
